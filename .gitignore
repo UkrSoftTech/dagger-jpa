@@ -1,3 +1,6 @@
 target
 .checkstyle
 .factorypath
+
+.idea
+.iml
